@@ -64,44 +64,6 @@ The following analyses were performed during this project:
 
 ---
 
-## 📷 Project Screenshots
-
-### Dataset Overview
-
-![Dataset Overview](images/dataset_overview.png)
-
----
-
-### Missing Value Analysis
-
-![Missing Values](images/missing_values.png)
-
----
-
-### Customer Churn Distribution
-
-![Churn Distribution](images/churn_distribution.png)
-
----
-
-### Gender-wise Analysis
-
-![Gender Analysis](images/gender_analysis.png)
-
----
-
-### State-wise Customer Distribution
-
-![State Analysis](images/state_analysis.png)
-
----
-
-### Monthly Charges Analysis
-
-![Monthly Charges](images/monthly_charges.png)
-
----
-
 ## 📈 Key Insights
 
 - Identified customer distribution across different demographic groups.
